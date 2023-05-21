@@ -1,1 +1,2 @@
 It's so lonely here :-(
+Test writing a git commit message in VSCode
